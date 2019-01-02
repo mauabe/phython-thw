@@ -37,8 +37,3 @@ print (fat_cat)
 # \n\ooo 'Character with octal value oo'
 # \n\xhh  'Character with hex valie hh'
 # )
-
-while True:
-for i in ["/","-","|","\\","|"]:
-            print "%s\r" % i,
-
