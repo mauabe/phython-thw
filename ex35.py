@@ -1,7 +1,7 @@
 from sys import exit
 
 def gold_room():
-  print ('This room is full of gold bars. How much do you take?');
+  print ('This room is full of gold bars. Help yourself. How many do you take?');
 
   next = input('?: ')
   if '0' in next or '1' in next:
